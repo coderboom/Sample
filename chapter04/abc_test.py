@@ -44,10 +44,6 @@ from collections.abc import Sized
 
 
 """
-
-
-
-
 """
 # 通过abc 实现抽象基类,在初始化的时候便会抛出异常
 import abc
