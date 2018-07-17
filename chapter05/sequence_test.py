@@ -23,8 +23,7 @@ print(a)
 
 """
 .extend(A)
-
-extend()，无返回值，直接作用在对象上
+extend()：无返回值，直接作用在对象上
 """
 a.extend(range(20, 25))
 print(a)

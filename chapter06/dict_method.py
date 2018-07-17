@@ -8,7 +8,7 @@ new_a1['boby1']['company'] = 'aaaaa'
 import copy  # 深拷贝
 
 """
-深拷贝，
+深拷贝 
 """
 new_a2 = copy.deepcopy(a)
 new_a2['boby1']['company'] = 'bbbbbb'
