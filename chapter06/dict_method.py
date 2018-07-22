@@ -39,7 +39,7 @@ default = a.setdefault('baby', 'ccccccc')
 print(default)
 
 """
-update(): 将两个dict合并：将一个dict更新到另外一个中去
+update(): 合并两个dict：将一个dict更新到另外一个中去
 """
 
 pass
